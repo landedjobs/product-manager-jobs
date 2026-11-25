@@ -1,5 +1,464 @@
 [
   {
+    "dedupeKey": "job:775e7cd3-8933-4d62-afbb-74fe17cad462",
+    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
+    "company": "Coinbase",
+    "companyDomain": "coinbase.com",
+    "role": "Senior Product Manager",
+    "applyUrl": "https://go.landed.jobs/6p8nwlh",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-25T00:03:24.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Crypto 50",
+      "$38.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:797ed81d-f20d-47c9-8d9f-3f009260875d",
+    "companyId": "company_8333eb4073192d57cffad4d658223694",
+    "company": "Skydio",
+    "companyDomain": "skydio.com",
+    "role": "Staff Product Manager, Construction",
+    "applyUrl": "https://go.landed.jobs/d7u18h3",
+    "location": "San Mateo, CA",
+    "locations": [
+      "San Mateo, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-24T21:18:25.414Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$4.4B valuation",
+      "Series F"
+    ]
+  },
+  {
+    "dedupeKey": "job:90cab502-f346-43e3-b918-e36601961cf0",
+    "companyId": "company_8da9315b3dc92894301348634cca4f0d",
+    "company": "Rubrik",
+    "companyDomain": "rubrik.com",
+    "role": "Product Management Intern (MSP), Winter 2027",
+    "applyUrl": "https://go.landed.jobs/8l938o2",
+    "location": "Palo Alto, CA",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "intern",
+    "skills": [
+      "product strategy"
+    ],
+    "posted": "2026-11-24T19:18:20.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$14.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:25541261-eb9c-4930-8d17-694a5e90bcce",
+    "companyId": "company_2b7af83bb366df4cd45b0d05cd7f4084",
+    "company": "Assort Health",
+    "companyDomain": "assorthealth.com",
+    "role": "Product Operations Manager",
+    "applyUrl": "https://go.landed.jobs/0a039nj",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-24T19:17:20.583Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp HealthTech 50",
+      "$1.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:a1f9f8fe-1a00-4625-ad67-75e55396f031",
+    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
+    "company": "Coinbase",
+    "companyDomain": "coinbase.com",
+    "role": "Product Manager II",
+    "applyUrl": "https://go.landed.jobs/peq4pyt",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "mid",
+    "skills": [
+      "product strategy"
+    ],
+    "posted": "2026-11-24T19:00:32.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Crypto 50",
+      "$38.5B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2e07d33f-c95b-47cd-8347-b906ef76a4c8",
+    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
+    "company": "Anduril Industries",
+    "companyDomain": "anduril.com",
+    "role": "Oracle Applications Product Manager",
+    "applyUrl": "https://go.landed.jobs/fcsh4pq",
+    "location": "Costa Mesa, CA",
+    "locations": [
+      "Costa Mesa, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-24T00:04:46.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$61B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ae0ceb81-cc07-48f7-a16a-bf7221ca6a2f",
+    "companyId": "company_f0420038f8afd946b21d16e6ca458c9f",
+    "company": "Illumio",
+    "companyDomain": "illumio.com",
+    "role": "Product Manager Intern",
+    "applyUrl": "https://go.landed.jobs/h14h2g6",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-23T23:50:04.259Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$2.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f1cc234b-02a3-4aad-93d4-0df7236face6",
+    "companyId": "company_f0420038f8afd946b21d16e6ca458c9f",
+    "company": "Illumio",
+    "companyDomain": "illumio.com",
+    "role": "Technical Product Management Intern",
+    "applyUrl": "https://go.landed.jobs/ht9hhxd",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "intern",
+    "skills": [
+      "product strategy",
+      "Python",
+      "LLMs",
+      "RAG"
+    ],
+    "posted": "2026-11-23T23:45:27.163Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$2.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:753ed1f3-eb75-4740-962e-171869922d84",
+    "companyId": "company_f0420038f8afd946b21d16e6ca458c9f",
+    "company": "Illumio",
+    "companyDomain": "illumio.com",
+    "role": "Product Management Intern, Solution Economics",
+    "applyUrl": "https://go.landed.jobs/bkc6ick",
+    "location": "Sunnyvale, CA",
+    "locations": [
+      "Sunnyvale, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "intern",
+    "skills": [],
+    "posted": "2026-11-23T23:34:03.772Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$2.8B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f614b928-d536-492d-bb01-706a7df48c32",
+    "companyId": "company_8b8cb6d62d0fd3a279fe41c5debd414f",
+    "company": "Alpaca",
+    "companyDomain": "alpaca.markets",
+    "role": "Lead Product Manager, Multimodal Clearing",
+    "applyUrl": "https://go.landed.jobs/fwo6obs",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Eu, France",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T22:44:07.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC W19",
+      "$1.1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:63adce97-57fa-44fd-98a8-306efe0e49c8",
+    "companyId": "company_cc1e1169ed725dd9adb0f0065bdc8d28",
+    "company": "Robinhood",
+    "companyDomain": "robinhood.com",
+    "role": "Senior Product Manager, Brokerage Platform",
+    "applyUrl": "https://go.landed.jobs/mwwu1wy",
+    "location": "Chicago, IL +2",
+    "locations": [
+      "Chicago, IL",
+      "Menlo Park, CA",
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T19:41:04.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$78B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ea686265-1bf5-442b-a997-42d9d9b98408",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "Product Growth Lead (Starlink)",
+    "applyUrl": "https://go.landed.jobs/n144vyh",
+    "location": "Bastrop, TX +2",
+    "locations": [
+      "Bastrop, TX",
+      "Hawthorne, CA",
+      "Redmond, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "Python"
+    ],
+    "posted": "2026-11-23T16:32:40.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:49bc8eda-58fd-4653-bcdc-2d0b2177e195",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "Product Growth Lead (Starlink)",
+    "applyUrl": "https://go.landed.jobs/eycxh55",
+    "location": "Hawthorne, CA +2",
+    "locations": [
+      "Hawthorne, CA",
+      "Bastrop, TX",
+      "Redmond, WA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "Python"
+    ],
+    "posted": "2026-11-23T16:32:38.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:068ebac5-7875-497b-aceb-7cf74bca365d",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "Product Growth Lead (Starlink)",
+    "applyUrl": "https://go.landed.jobs/bjyalap",
+    "location": "Redmond, WA +2",
+    "locations": [
+      "Redmond, WA",
+      "Bastrop, TX",
+      "Hawthorne, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "Python"
+    ],
+    "posted": "2026-11-23T16:32:36.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:1ca62da3-9afd-4766-af10-3a7cf3a96104",
+    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
+    "company": "Stripe",
+    "companyDomain": "stripe.com",
+    "role": "Product Lead, Support Experience",
+    "applyUrl": "https://go.landed.jobs/8bnmswf",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "director",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T15:48:01.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S09",
+      "$159B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:130b2a0f-0918-4025-bff2-e0c6e88c9f9a",
+    "companyId": "company_8b3e6962946ce27398bb0bcd8b4a4b39",
+    "company": "Solace",
+    "companyDomain": "solace.health",
+    "role": "Product Manager",
+    "applyUrl": "https://go.landed.jobs/z2neest",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "mid",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T14:29:46.597Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp HealthTech 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:5348105f-2ef1-44a0-80cd-875f4623be1e",
+    "companyId": "company_8b3e6962946ce27398bb0bcd8b4a4b39",
+    "company": "Solace",
+    "companyDomain": "solace.health",
+    "role": "Senior Associate Product Manager",
+    "applyUrl": "https://go.landed.jobs/1r35iia",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "go"
+    ],
+    "posted": "2026-11-23T14:23:16.457Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp HealthTech 50",
+      "$1B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:1f878c3f-d6f5-4a46-ae7d-587a10714df8",
+    "companyId": "company_d07196d6edfe1d070e05253f4ac1c552",
+    "company": "Airwallex",
+    "companyDomain": "airwallex.com",
+    "role": "Senior Product Manager, GTPN",
+    "applyUrl": "https://go.landed.jobs/1t78u1s",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "API design",
+      "product strategy"
+    ],
+    "posted": "2026-11-23T02:06:39.254Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp FinTech 50",
+      "$11B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:e51d87a5-645a-4d48-91ba-ea3590eabf56",
     "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
     "company": "Waymo",
@@ -322,6 +781,33 @@
     ]
   },
   {
+    "dedupeKey": "job:54d89797-a497-495d-9ac0-3cb4724e175f",
+    "companyId": "company_c63117cdaa3f6a0afd52f1cd4478fae9",
+    "company": "Airalo",
+    "companyDomain": "airalo.com",
+    "role": "Senior Technical Product Manager",
+    "applyUrl": "https://go.landed.jobs/62nejv2",
+    "location": "🌐 Remote (Spain)",
+    "locations": [
+      "Spain"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "BigQuery",
+      "Tableau",
+      "Figma"
+    ],
+    "posted": "2026-11-20T11:15:31.995Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Marketplace 50",
+      "$1B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:1cb68361-09fe-422a-ab3a-a792d1c56f41",
     "companyId": "company_bb438e1309fd5686c78f3282ad4de532",
     "company": "OpenAI",
@@ -484,7 +970,7 @@
     "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
     "company": "Stripe",
     "companyDomain": "stripe.com",
-    "role": "Staff Product Manager, Infrastructure",
+    "role": "Product Manager, Infrastructure",
     "applyUrl": "https://go.landed.jobs/1rjo7zi",
     "location": "US",
     "locations": [
@@ -686,6 +1172,37 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:f0b3b3d6-924d-490c-b5fa-a3327875f430",
+    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
+    "company": "Harvey",
+    "companyDomain": "harvey.ai",
+    "role": "Senior Staff Product Manager, Spaces",
+    "applyUrl": "https://go.landed.jobs/ghuwcdu",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [
+      "product management",
+      "B2B SaaS",
+      "product and design judgment",
+      "growth instincts",
+      "multi-user workspaces",
+      "AI-powered products",
+      "AI agents"
+    ],
+    "posted": "2026-11-18T23:28:51.193Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$11B valuation"
     ]
   },
   {
@@ -909,29 +1426,6 @@
     ]
   },
   {
-    "dedupeKey": "job:9d9233f5-b88d-477d-b1e6-f2284d7f637d",
-    "companyId": "company_9443de2e1010fe6ee34f4c6b39ca2846",
-    "company": "Harvey",
-    "companyDomain": "harvey.ai",
-    "role": "GTM Technology Product Owner - Quote to Cash",
-    "applyUrl": "https://go.landed.jobs/w8wa3yv",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-18T15:24:56.780Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$11B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:9365a848-023d-443f-bd7b-d364db694f15",
     "companyId": "company_1450e93b957312c2110d7d5b43375411",
     "company": "Starburst",
@@ -955,32 +1449,6 @@
     "companyBadges": [
       "TrueUp Open Source 50",
       "$3.4B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e92a2bf7-bca8-466f-9904-c3bad6c7ae3d",
-    "companyId": "company_4317a860e042f896d91404b4f2ce9b81",
-    "company": "Deepgram",
-    "companyDomain": "deepgram.com",
-    "role": "Senior Product Manager, Enterprise",
-    "applyUrl": "https://go.landed.jobs/rwj184y",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "product strategy",
-      "SOC 2"
-    ],
-    "posted": "2026-11-18T14:26:52.022Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC W16",
-      "$1.3B valuation"
     ]
   },
   {
@@ -2366,32 +2834,6 @@
     ]
   },
   {
-    "dedupeKey": "job:34ce6edb-fb0d-4d65-82f2-f32bc9381fbf",
-    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
-    "company": "Stripe",
-    "companyDomain": "stripe.com",
-    "role": "Product Manager, Consumer Bank Network",
-    "applyUrl": "https://go.landed.jobs/68zjas6",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "",
-    "skills": [
-      "product strategy",
-      "recommendation systems"
-    ],
-    "posted": "2026-11-12T22:27:06.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S09",
-      "$159B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:1a62ac48-f392-4492-9646-04a65bd42dca",
     "companyId": "company_48903a64fb9cfbae281779a45706fb68",
     "company": "Verkada",
@@ -2739,7 +3181,7 @@
     "companyId": "company_7957dd3d72b1beb734119dc56fdf87ff",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
-    "role": "Sr. Digital Product Manager",
+    "role": "Sr. Digital Product Manager - Data Platform",
     "applyUrl": "https://go.landed.jobs/we3im5u",
     "location": "US · Denver, CO",
     "locations": [
@@ -2765,7 +3207,7 @@
     "companyId": "company_7957dd3d72b1beb734119dc56fdf87ff",
     "company": "Strive Health",
     "companyDomain": "strivehealth.com",
-    "role": "Sr. Digital Product Manager",
+    "role": "Sr. Digital Product Manager - Data Platform",
     "applyUrl": "https://go.landed.jobs/0okqwzm",
     "location": "Denver, CO",
     "locations": [
@@ -3241,6 +3683,57 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$13B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:e5f1bd7a-f885-4184-9207-df19186e3474",
+    "companyId": "company_ee5a5ac45a827cae53306576887e40a7",
+    "company": "AngelList",
+    "companyDomain": "angellist.com",
+    "role": "Product Manager, Identity and Subscriptions",
+    "applyUrl": "https://go.landed.jobs/n7qm7ow",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-11T03:48:47.487Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$4B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:47e855a7-15d7-45d6-b121-e8dc2b1adbcc",
+    "companyId": "company_ee5a5ac45a827cae53306576887e40a7",
+    "company": "AngelList",
+    "companyDomain": "angellist.com",
+    "role": "Product Manager, Banking Foundations",
+    "applyUrl": "https://go.landed.jobs/nplb7uy",
+    "location": "San Francisco, CA · New York City, NY",
+    "locations": [
+      "San Francisco, CA",
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "principal",
+    "skills": [
+      "rails",
+      "payment rails"
+    ],
+    "posted": "2026-11-11T03:47:05.029Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$4B valuation"
     ]
   },
   {
@@ -4744,143 +5237,114 @@
     ]
   },
   {
-    "dedupeKey": "job:32417e2d-6acc-4246-aa99-0053fb94bef3",
-    "companyId": "company_3cbb86390559ca50940d2e2d1c8a9632",
-    "company": "Judi Health",
-    "companyDomain": "judi.health",
-    "role": "Vice President, Product – Judi Care",
-    "applyUrl": "https://go.landed.jobs/1exi138",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:5331b318-556c-463e-9ed1-2c1bf0af0117",
+    "companyId": "company_dad89edc13a5d431879b8f6b131f6718",
+    "company": "Formlabs",
+    "companyDomain": "formlabs.com",
+    "role": "Head of Software Product Management",
+    "applyUrl": "https://go.landed.jobs/rll1f6t",
+    "location": "Somerville, MA",
     "locations": [
-      "Charlotte, NC",
-      "Denver, CO",
-      "New York City, NY"
+      "Somerville, MA"
     ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "vp",
-    "skills": [
-      "product strategy",
-      "agentic workflows",
-      "go"
-    ],
-    "posted": "2026-11-06T22:34:19.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp FinTech 50",
-      "$3.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:cdd9a0cc-8418-4995-98dd-41a76e5648c9",
-    "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
-    "company": "Affirm",
-    "companyDomain": "affirm.com",
-    "role": "Director, Product Management (Consumer)",
-    "applyUrl": "https://go.landed.jobs/wcha3s2",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "product_management",
     "level": "director",
     "skills": [
-      "LLM"
+      "airflow"
     ],
-    "posted": "2026-11-06T22:11:50.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-24T21:44:58.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Remote 200",
-      "$23.9B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:363d9288-53d3-454e-9c14-0c9e6ee992e0",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "Senior Product Manager, Payments & TRUST Network",
-    "applyUrl": "https://go.landed.jobs/gibca1t",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-11-06T22:01:40.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:fc87df9c-d1b2-460f-97e0-ca7a43bfdc45",
-    "companyId": "company_1f8d2cf295343f8d1965aad3a9bce760",
-    "company": "Gusto",
-    "companyDomain": "gusto.com",
-    "role": "Principal Product Manager, HR Experiences",
-    "applyUrl": "https://go.landed.jobs/xzcaysz",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "principal",
-    "skills": [
-      "LLM"
-    ],
-    "posted": "2026-11-06T21:05:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "$10B valuation",
+      "$2B valuation",
       "Series E"
     ]
   },
   {
-    "dedupeKey": "job:d0d8eb9f-7cf1-4ffd-b600-71827f36bff0",
-    "companyId": "company_9ea79d0d119ecb49ac45fb78f11ecb30",
-    "company": "Zscaler",
-    "companyDomain": "zscaler.com",
-    "role": "Principal Product Manager",
-    "applyUrl": "https://go.landed.jobs/2r9qxwb",
-    "location": "🌐 Remote (US)",
+    "dedupeKey": "job:66b532bb-84d5-4c0e-b17f-5ba59d741bb1",
+    "companyId": "company_99679c7f5d35cface52b95b08a35a102",
+    "company": "OVERJET",
+    "companyDomain": "overjet.com",
+    "role": "Director of Product",
+    "applyUrl": "https://go.landed.jobs/jt0u33x",
+    "location": "San Mateo, CA",
     "locations": [
-      "US"
+      "San Mateo, CA"
     ],
-    "remote": "remote",
-    "region": "remote",
+    "remote": "hybrid",
+    "region": "us",
     "family": "product_management",
-    "level": "principal",
+    "level": "director",
     "skills": [
-      "complex sales",
-      "product strategy",
-      "agentic workflows"
+      "AI agents",
+      "product strategy"
     ],
-    "posted": "2026-11-06T18:57:42.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-24T19:33:38.662Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Security 50",
-      "$24.4B valuation"
+      "$430M valuation",
+      "Series C"
     ]
   },
   {
-    "dedupeKey": "job:40164650-831a-4877-a821-993f4b924f0d",
-    "companyId": "company_3139e4ae9e960ef3f01c63f372765bf7",
-    "company": "Collibra",
-    "companyDomain": "collibra.com",
-    "role": "Staff Product Manager",
-    "applyUrl": "https://go.landed.jobs/txid0ih",
+    "dedupeKey": "job:6d734cd0-ea10-4ff1-a8fa-b85a4c233d9e",
+    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
+    "company": "Charles Schwab",
+    "companyDomain": "schwab.com",
+    "role": "Director, Digital Product Management - Knowledge Solutions (PL)",
+    "applyUrl": "https://go.landed.jobs/d5x7g0g",
+    "location": "Westlake, TX · Orlando, FL",
+    "locations": [
+      "Westlake, TX",
+      "Orlando, FL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "director",
+    "skills": [
+      "product strategy"
+    ],
+    "posted": "2026-11-24T05:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:662dd0b0-903a-46d7-a14b-72b5a3f2d70a",
+    "companyId": "company_09c57c9d04dc513e3b1921a7da4fefba",
+    "company": "Flock Freight",
+    "companyDomain": "flockfreight.com",
+    "role": "Senior Product Manager",
+    "applyUrl": "https://go.landed.jobs/21b5ma6",
+    "location": "Encinitas, CA",
+    "locations": [
+      "Encinitas, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "product discovery",
+      "go"
+    ],
+    "posted": "2026-11-24T00:00:52.034Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.3B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:a5d2c53f-8a4a-4b7d-9ee2-07758fbc8e88",
+    "companyId": "company_2a595b210e27c0f43cd95569bbcf8c09",
+    "company": "Alloy",
+    "companyDomain": "alloy.com",
+    "role": "Senior Product Manager, Digital Banking Fraud",
+    "applyUrl": "https://go.landed.jobs/zqy00bu",
     "location": "New York City, NY",
     "locations": [
       "New York City, NY"
@@ -4888,235 +5352,361 @@
     "remote": "hybrid",
     "region": "us",
     "family": "product_management",
-    "level": "staff",
-    "skills": [
-      "AI Product Management",
-      "AI strategy",
-      "roadmap",
-      "data governance",
-      "product management",
-      "AI or ML-powered software",
-      "presenting product strategy",
-      "MCP gateway",
-      "proxy hosting path"
-    ],
-    "posted": "2026-11-06T12:20:54.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Remote 200",
-      "$5.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:80e006e0-b9d0-4f4c-87c6-6e9f8db0066d",
-    "companyId": "company_89d67db902b60f76d14c1ab95e81f3fe",
-    "company": "Tailscale",
-    "companyDomain": "tailscale.com",
-    "role": "Product Manager, Identity",
-    "applyUrl": "https://go.landed.jobs/no591nl",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [
-      "OIDC",
-      "SAML",
-      "SCIM",
-      "WebAuthn",
-      "OAuth",
-      "Okta",
-      "Azure Entra ID/Active Directory",
-      "Google Workspace",
-      "Identity-Aware Proxy (IAP)",
-      "service mesh",
-      "workload identity federation"
-    ],
-    "posted": "2026-11-06T04:50:12.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Open Source 50",
-      "$1.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:1896d047-2bb6-4d7d-8941-674389e8bf13",
-    "companyId": "company_3943548163209640e2b85f4fa312349b",
-    "company": "Figure",
-    "companyDomain": "figure.com",
-    "role": "Senior Product Manager, Integrations and New Verticals",
-    "applyUrl": "https://go.landed.jobs/xbva92k",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "New York City, NY"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
     "level": "senior",
     "skills": [
-      "third-party integrations",
-      "vendor APIs",
-      "data providers",
-      "embedded partner services",
-      "platform integrations",
-      "monitoring",
-      "KPIs",
-      "SLA frameworks"
+      "model evaluation"
     ],
-    "posted": "2026-11-06T04:22:48.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-23T21:16:58.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Crypto 50",
-      "$5.5B valuation"
+      "Series C"
     ]
   },
   {
-    "dedupeKey": "job:25f821be-43ef-4e7e-99ed-15ba6efcd2db",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "Product Manager II, Payment Experiences",
-    "applyUrl": "https://go.landed.jobs/gxaxbqe",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [
-      "Payment Acceptance API",
-      "OAuth deep-linking integrations",
-      "headless Onramp APIs",
-      "Apple Pay",
-      "Google Pay",
-      "debit/credit cards",
-      "bank transfers",
-      "DeFi applications",
-      "self-custodial wallets"
-    ],
-    "posted": "2026-11-06T01:06:49.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:e8c7c043-4bee-4c37-8553-597298d1b268",
-    "companyId": "company_ff5ae2fb4ebddbaa9587bde5ffe3c443",
-    "company": "Coinbase",
-    "companyDomain": "coinbase.com",
-    "role": "Group Product Manager, AI Foundations",
-    "applyUrl": "https://go.landed.jobs/5k9wsbd",
-    "location": "US",
-    "locations": [
-      "US"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "staff",
-    "skills": [
-      "LLM Gateway",
-      "model selection",
-      "MCPs",
-      "knowledge and context primitives",
-      "evaluations",
-      "AI infrastructure",
-      "self-serve capabilities",
-      "clear documentation",
-      "internal developer experiences"
-    ],
-    "posted": "2026-11-06T00:37:27.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Crypto 50",
-      "$38.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:22e902d5-ec58-42ed-9cd9-dbe89bdab2e8",
-    "companyId": "company_1a1f1762241d4347f22ce5defa6ebcc5",
-    "company": "Applied Materials",
-    "companyDomain": "appliedmaterials.com",
-    "role": "Technical Project / Program Manager",
-    "applyUrl": "https://go.landed.jobs/5bmp6nm",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$403B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:7dfb1357-17a5-454d-9f55-5d009f8fa2e1",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Senior Director, Technical Product Management — AI Quality & Evaluation",
-    "applyUrl": "https://go.landed.jobs/a3h4r4n",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "director",
-    "skills": [
-      "AI agents",
-      "Salesforce"
-    ],
-    "posted": "2026-11-06T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:89bb8a7e-d43c-4191-8a34-9acd0df2dd3e",
-    "companyId": "company_6268792d1010ee198befb473acab3907",
-    "company": "Salesforce",
-    "companyDomain": "salesforce.com",
-    "role": "Summer 2027 Intern - Product Management",
-    "applyUrl": "https://go.landed.jobs/c4z842t",
+    "dedupeKey": "job:91338174-9522-4d36-b5c9-0ab090b95af3",
+    "companyId": "company_a8cee5b62e3a1589b26647c81d6ab620",
+    "company": "Mixpanel",
+    "companyDomain": "mixpanel.com",
+    "role": "Senior Product Manager - AI Engine",
+    "applyUrl": "https://go.landed.jobs/w1wyw2w",
     "location": "San Francisco, CA · New York City, NY",
     "locations": [
       "San Francisco, CA",
       "New York City, NY"
     ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "LLMs",
+      "Figma"
+    ],
+    "posted": "2026-11-23T20:56:31.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.1B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:a7197857-af09-45c6-89a2-1d7ab6aa54c4",
+    "companyId": "company_3a6a873d7f0d5a1f152b8d2b6c0f26e5",
+    "company": "The Trade Desk",
+    "companyDomain": "thetradedesk.com",
+    "role": "Staff Product Manager",
+    "applyUrl": "https://go.landed.jobs/jva0kqk",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-23T19:46:42.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$8.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:db8cca82-5b62-463a-8931-bc406a0f51a4",
+    "companyId": "company_918b985e055c2709d4b76fae92bd16ef",
+    "company": "Everlaw",
+    "companyDomain": "everlaw.com",
+    "role": "Product Manager II",
+    "applyUrl": "https://go.landed.jobs/r73hars",
+    "location": "Oakland, CA",
+    "locations": [
+      "Oakland, CA"
+    ],
     "remote": "hybrid",
     "region": "us",
     "family": "product_management",
-    "level": "intern",
+    "level": "mid",
     "skills": [
+      "Python",
+      "SQL",
+      "Looker"
+    ],
+    "posted": "2026-11-23T18:27:08.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:552ccb29-2713-4aa1-a9da-b9a6d053830a",
+    "companyId": "company_6cdd16e9a761862a3a24e8ea86905f7c",
+    "company": "Asana",
+    "companyDomain": "asana.com",
+    "role": "Staff Product Manager, Reporting",
+    "applyUrl": "https://go.landed.jobs/6unes9u",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [
+      "product strategy",
+      "AI agents"
+    ],
+    "posted": "2026-11-23T17:39:16.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.9B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:91f87b73-bd07-4363-9e0d-9e0ae18fdacc",
+    "companyId": "company_918b985e055c2709d4b76fae92bd16ef",
+    "company": "Everlaw",
+    "companyDomain": "everlaw.com",
+    "role": "Senior Legal Engineer",
+    "applyUrl": "https://go.landed.jobs/nn5w6kx",
+    "location": "Oakland, CA",
+    "locations": [
+      "Oakland, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-23T17:21:24.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:96ab17fd-9bd9-40d5-b090-24cf7a1db3e1",
+    "companyId": "company_52d9588c3c495f42c786ba86fb1069c3",
+    "company": "Underdog",
+    "companyDomain": "underdogsports.com",
+    "role": "Staff Product Manager, Rips",
+    "applyUrl": "https://go.landed.jobs/bedj5ol",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [],
+    "posted": "2026-11-23T17:18:40.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.2B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:b3c74348-7f0f-4085-8393-77c3fd3429db",
+    "companyId": "company_10e3b0d05fdf90facbf943b783cb8264",
+    "company": "Fivetran",
+    "companyDomain": "fivetran.com",
+    "role": "Senior Product Manager, Orchestration",
+    "applyUrl": "https://go.landed.jobs/xvq5jr4",
+    "location": "Oakland, CA +4",
+    "locations": [
+      "Oakland, CA",
+      "Austin, TX",
+      "New York City, NY",
+      "Philadelphia, PA",
+      "Denver, CO"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "dbt",
       "AI agents",
+      "Airflow",
+      "observability",
+      "Terraform",
+      "CI/CD"
+    ],
+    "posted": "2026-11-23T15:21:43.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$5.6B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:2b30531a-4136-4dc0-bed1-7975f96e7ba8",
+    "companyId": "company_688a8c9c52baa5c2882ee5af8f0f4c9b",
+    "company": "Babbel",
+    "companyDomain": "babbel.com",
+    "role": "Product Manager, Marketing Tech",
+    "applyUrl": "https://go.landed.jobs/wsqeqtd",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-23T14:43:41.538Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.3B valuation",
+      "Series C"
+    ]
+  },
+  {
+    "dedupeKey": "job:75737abc-b69b-4a44-8531-42e47a25b99a",
+    "companyId": "company_fd5116d6637a09437e1be859116f6398",
+    "company": "Privia Health",
+    "companyDomain": "priviahealth.com",
+    "role": "Credentialing and Enrollment Systems Manager",
+    "applyUrl": "https://go.landed.jobs/p33uko7",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-23T14:20:12.283Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:1f76bf2e-e2ce-4900-acbb-985b1465b3ef",
+    "companyId": "company_1a0a77df852aad6ad9d9f3a41af201de",
+    "company": "Marqeta",
+    "companyDomain": "marqeta.com",
+    "role": "Group Product Manager - Core Products",
+    "applyUrl": "https://go.landed.jobs/tfz0u8a",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US",
+      "New York City, NY",
+      "Oakland, CA"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [
+      "API design"
+    ],
+    "posted": "2026-11-23T14:17:24.343Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.7B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:033e66d3-b28c-4902-a6dd-b87bad5bb62d",
+    "companyId": "company_6740a0e6dd230350eae2c785d4105c9c",
+    "company": "ITW",
+    "companyDomain": "itw.com",
+    "role": "Product Manager - LPS",
+    "applyUrl": "https://go.landed.jobs/d3oyy6r",
+    "location": "Georgia",
+    "locations": [
+      "Georgia"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [],
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:66e6b501-2dbe-41a2-88be-043f354ead97",
+    "companyId": "company_4bafd6112b6dd866fe7ab931ec80e743",
+    "company": "SS&C",
+    "companyDomain": "ssctech.com",
+    "role": "GTM Principal, Commercial Operations",
+    "applyUrl": "https://go.landed.jobs/7b7syoh",
+    "location": "US",
+    "locations": [
+      "US"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "principal",
+    "skills": [
+      "product strategy",
       "Salesforce"
     ],
-    "posted": "2026-11-06T00:00:00.000Z",
-    "companyTier": "A",
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$151B valuation"
+      "$18.1B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:ce885587-eb6b-4ea0-99fa-723379a9947d",
+    "companyId": "company_9d61174c99bfe8e347abf2cf62b6ad55",
+    "company": "Trane Technologies",
+    "companyDomain": "tranetechnologies.com",
+    "role": "Product Manager",
+    "applyUrl": "https://go.landed.jobs/aa90d5e",
+    "location": "Minneapolis, MN",
+    "locations": [
+      "Minneapolis, MN"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "mid",
+    "skills": [],
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:dd3f764c-14df-4393-a648-658bdea17d4c",
+    "companyId": "company_e30e56d309468ded6ff9d1fbc80ec130",
+    "company": "GE HealthCare",
+    "companyDomain": "gehealthcare.com",
+    "role": "Director, Command Center",
+    "applyUrl": "https://go.landed.jobs/mrhcdgc",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "director",
+    "skills": [],
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -5191,29 +5781,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$317M valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:aa41a3c2-2ce1-4db8-856c-884684e50ab0",
-    "companyId": "company_fd5116d6637a09437e1be859116f6398",
-    "company": "Privia Health",
-    "companyDomain": "priviahealth.com",
-    "role": "Sr. Manager, VBC Technology",
-    "applyUrl": "https://go.landed.jobs/wi45oap",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-20T22:42:31.555Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3B valuation",
       "Public"
     ]
   },
@@ -5498,6 +6065,34 @@
     "posted": "2026-11-20T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:68b40ab3-07cf-4b06-b17c-991799988006",
+    "companyId": "company_2f3e0997c265919ad95632f77dc9d8ec",
+    "company": "Workiva",
+    "companyDomain": "workiva.com",
+    "role": "AI Platform Product Manager",
+    "applyUrl": "https://go.landed.jobs/a3ursbn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "AI agents",
+      "go",
+      "observability",
+      "microservices"
+    ],
+    "posted": "2026-11-20T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$3.4B valuation",
       "Public"
     ]
   },
@@ -6659,32 +7254,6 @@
     ]
   },
   {
-    "dedupeKey": "job:0506fcec-4af8-437c-8596-895db6d4a274",
-    "companyId": "company_84cdeba0fbf8df79bb2895b548f3a38e",
-    "company": "StackAdapt",
-    "companyDomain": "stackadapt.com",
-    "role": "Staff Technical Product Manager, Performance Advertising",
-    "applyUrl": "https://go.landed.jobs/btj1b67",
-    "location": "🌐 Remote (US, Canada)",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "staff",
-    "skills": [
-      "product strategy"
-    ],
-    "posted": "2026-11-16T18:38:28.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3B valuation",
-      "Series C"
-    ]
-  },
-  {
     "dedupeKey": "job:c9ddfe06-e179-4e97-b091-e94fe4aa645f",
     "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
     "company": "ServiceNow",
@@ -7053,611 +7622,6 @@
     "companyBadges": [
       "$2.5B valuation",
       "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:5b7fc75c-d94a-4ee6-a504-5573dd68c0b9",
-    "companyId": "company_ff4b7edc9dcad53121a6330809d381c1",
-    "company": "NICE",
-    "companyDomain": "nice.com",
-    "role": "Senior Product Manager - Voice Channel",
-    "applyUrl": "https://go.landed.jobs/wmin0wx",
-    "location": "Sandy, UT",
-    "locations": [
-      "Sandy, UT"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "Azure"
-    ],
-    "posted": "2026-11-13T22:01:36.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d7ef00c9-d511-4291-9fec-69c109dbbcea",
-    "companyId": "company_6e7b015cb530ab16df50ec1dd7a58723",
-    "company": "Vestwell",
-    "companyDomain": "vestwell.com",
-    "role": "Associate, Product Manager (Revenue Technology)",
-    "applyUrl": "https://go.landed.jobs/8728y5z",
-    "location": "New York City, NY +3",
-    "locations": [
-      "New York City, NY",
-      "Austin, TX",
-      "King of Prussia, PA",
-      "Scottsdale, AZ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "entry",
-    "skills": [
-      "AWS",
-      "SQL",
-      "Salesforce"
-    ],
-    "posted": "2026-11-13T21:28:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:271761d9-455a-40bc-bca4-3a5822201d91",
-    "companyId": "company_564f1a28d664e7fa079d7e749e85c0f4",
-    "company": "AlphaSense",
-    "companyDomain": "alpha-sense.com",
-    "role": "Senior Product Manager - AI Workflows (Investment Banking)",
-    "applyUrl": "https://go.landed.jobs/3axz8je",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "New York City, NY",
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "prompt engineering",
-      "LLMs"
-    ],
-    "posted": "2026-11-13T19:32:18.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$7.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:84f77640-1614-4082-86e1-83cedefcd8bb",
-    "companyId": "company_bf31163933faa3d925cbb97524525c6c",
-    "company": "Collectly",
-    "companyDomain": "collectly.co",
-    "role": "Product Manager - Patient Experience (USA-based)",
-    "applyUrl": "https://go.landed.jobs/aftxwcf",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "Remote"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [
-      "product discovery",
-      "SQL"
-    ],
-    "posted": "2026-11-13T19:26:45.937Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W17",
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:3551ebcb-0378-4854-a2e8-87be169e41c7",
-    "companyId": "company_2fd0fa5fb183b7a5db52692e77a1aaff",
-    "company": "Perk",
-    "companyDomain": "perk.com",
-    "role": "Senior Product Manager - Cards",
-    "applyUrl": "https://go.landed.jobs/83gubod",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "product strategy"
-    ],
-    "posted": "2026-11-13T18:07:38.014Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.7B valuation",
-      "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:8bc902bb-8a95-4566-99db-30ecd1c582c6",
-    "companyId": "company_dcda033adc01f12f35ba3c11ad07417d",
-    "company": "Peloton Interactive",
-    "companyDomain": "onepeloton.com",
-    "role": "Group Product Manager",
-    "applyUrl": "https://go.landed.jobs/mkoito0",
-    "location": "New York City, NY",
-    "locations": [
-      "New York City, NY"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T16:44:12.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2c17a45a-477f-4363-aeab-93065dc7f5ff",
-    "companyId": "company_99679c7f5d35cface52b95b08a35a102",
-    "company": "OVERJET",
-    "companyDomain": "overjet.com",
-    "role": "Lead Product Manager, Agentic",
-    "applyUrl": "https://go.landed.jobs/0b5ln2e",
-    "location": "San Mateo, CA",
-    "locations": [
-      "San Mateo, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "AI agents",
-      "product discovery"
-    ],
-    "posted": "2026-11-13T15:56:05.352Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$430M valuation",
-      "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:01b7bfe0-2f8e-4124-929c-2773100fa56c",
-    "companyId": "company_8930daa97389a83206fc68c0f866357c",
-    "company": "Nebius",
-    "companyDomain": "nebius.com",
-    "role": "Product Manager, Model Launches",
-    "applyUrl": "https://go.landed.jobs/lpvnblu",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "",
-    "skills": [
-      "AI agents",
-      "LLM"
-    ],
-    "posted": "2026-11-13T08:07:26.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$48.3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:d8c44fb1-d63a-4529-9e23-7576b65eafc8",
-    "companyId": "company_e96861c5e5152ede64618a0e277d9c81",
-    "company": "Charles Schwab",
-    "companyDomain": "schwab.com",
-    "role": "Senior Offer Manager Retirement Plan Services - PEPs, MEPs & ESOPs",
-    "applyUrl": "https://go.landed.jobs/i3ach0x",
-    "location": "Westlake, TX +3",
-    "locations": [
-      "Westlake, TX",
-      "Austin, TX",
-      "Richfield, OH",
-      "Lone Tree, CO"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T05:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:023b2dfd-9eea-4c30-8faa-444acc8cbe90",
-    "companyId": "company_c16fac952b7d6b36fbb53d5f5e61abf3",
-    "company": "Cohesity",
-    "companyDomain": "cohesity.com",
-    "role": "Senior Product Manager, AI",
-    "applyUrl": "https://go.landed.jobs/253sjh4",
-    "location": "Santa Clara, CA",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "LLMs",
-      "RAG",
-      "go",
-      "agentic workflows"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.7B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:0a3ca44d-96f3-47b4-909e-4c64d0a412ca",
-    "companyId": "company_d4ed29c11d3e1867937f29b4a7b35de5",
-    "company": "RELX",
-    "companyDomain": "relx.com",
-    "role": "Sr Product Manager** EST Coast Preferred",
-    "applyUrl": "https://go.landed.jobs/ruwsm36",
-    "location": "Horsham, PA",
-    "locations": [
-      "Horsham, PA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$61.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:361fbee8-3d92-49e8-9ddd-ffca7e573d83",
-    "companyId": "company_f7c7888938d9e6732218edf477b3cfe5",
-    "company": "Entegris",
-    "companyDomain": "entegris.com",
-    "role": "Associate Product Manager Intern",
-    "applyUrl": "https://go.landed.jobs/ifrgaj6",
-    "location": "Chaska, MN",
-    "locations": [
-      "Chaska, MN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$18.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:3c514da8-edf6-4846-8c02-71372bcd2e30",
-    "companyId": "company_c8a2f0acf71895c41676bc0c39751c0d",
-    "company": "Trend Micro",
-    "companyDomain": "trendmicro.com",
-    "role": "Product Manager, AI Partner Integration",
-    "applyUrl": "https://go.landed.jobs/8dggmvm",
-    "location": "Austin, TX · Irving, TX",
-    "locations": [
-      "Austin, TX",
-      "Irving, TX"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "Google Cloud",
-      "Azure",
-      "model evaluation"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:465807db-9fd3-4bb8-94aa-7e20824e34cf",
-    "companyId": "company_6740a0e6dd230350eae2c785d4105c9c",
-    "company": "ITW",
-    "companyDomain": "itw.com",
-    "role": "Universal Testing Systems Product Manager",
-    "applyUrl": "https://go.landed.jobs/0e9qa4c",
-    "location": "Eden Prairie, MN",
-    "locations": [
-      "Eden Prairie, MN"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4be52c7e-e159-47e2-805a-80ce04c9979b",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Software Platforms Product Manager Cloud Hybrid California",
-    "applyUrl": "https://go.landed.jobs/xgt7002",
-    "location": "San Jose, CA · US",
-    "locations": [
-      "San Jose, CA",
-      "US"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "principal",
-    "skills": [
-      "AWS",
-      "Azure",
-      "agentic workflows"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:578f18b0-9c6c-4782-a91d-48dd4bdf7a94",
-    "companyId": "company_b8a47c7e48c41f0470223b18889960d0",
-    "company": "Bms",
-    "companyDomain": "bms.com",
-    "role": "Associate Director, Commercialization BI&T Product Manager Patient Support Platforms",
-    "applyUrl": "https://go.landed.jobs/gt2z8ma",
-    "location": "Princeton, NJ",
-    "locations": [
-      "Princeton, NJ"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "director",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6fa14163-9853-4852-b719-541dcf21ba15",
-    "companyId": "company_455ee687bba04f8b3ad62686928252cd",
-    "company": "Visa",
-    "companyDomain": "visa.com",
-    "role": "Sr. Product Manager - Visa Spend Clarity",
-    "applyUrl": "https://go.landed.jobs/i0uoxc8",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "go"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:782d722f-1036-42b8-bedd-e67b19665d3c",
-    "companyId": "company_c8a2f0acf71895c41676bc0c39751c0d",
-    "company": "Trend Micro",
-    "companyDomain": "trendmicro.com",
-    "role": "Principal Product Manager, Cloud Security (CNAPP)",
-    "applyUrl": "https://go.landed.jobs/c8zaic3",
-    "location": "Austin, TX · Irving, TX",
-    "locations": [
-      "Austin, TX",
-      "Irving, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "principal",
-    "skills": [
-      "AWS",
-      "Google Cloud",
-      "Azure"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$5.4B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:8572fc69-258e-4a90-b113-157a2382f353",
-    "companyId": "company_6b8510ec45e00d4e449f6fac0c6ec511",
-    "company": "PayPal",
-    "companyDomain": "paypal.com",
-    "role": "Sr Manager, Product Growth",
-    "applyUrl": "https://go.landed.jobs/q5dilxk",
-    "location": "New York City, NY +3",
-    "locations": [
-      "New York City, NY",
-      "Chicago, IL",
-      "San Jose, CA",
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:8a306239-3430-4d80-af64-b02c6730af0c",
-    "companyId": "company_438cd59b0714655b3b128e2dff6daebc",
-    "company": "Cigna",
-    "companyDomain": "cigna.com",
-    "role": "Program Management Lead Analyst - Evernorth Health Services - Remote",
-    "applyUrl": "https://go.landed.jobs/x38clxw",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "SQL"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:8a78b129-2e28-4607-b5f6-5ace47eb1283",
-    "companyId": "company_d4ed29c11d3e1867937f29b4a7b35de5",
-    "company": "RELX",
-    "companyDomain": "relx.com",
-    "role": "Product Mgr I",
-    "applyUrl": "https://go.landed.jobs/7xxtxnx",
-    "location": "Alpharetta, GA",
-    "locations": [
-      "Alpharetta, GA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "mid",
-    "skills": [
-      "Product Strategy"
-    ],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$61.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:948f1333-5046-4c7c-9729-a6bcad5c501e",
-    "companyId": "company_6b8510ec45e00d4e449f6fac0c6ec511",
-    "company": "PayPal",
-    "companyDomain": "paypal.com",
-    "role": "Sr Product Manager, Technical",
-    "applyUrl": "https://go.landed.jobs/y8apgwf",
-    "location": "Scottsdale, AZ +3",
-    "locations": [
-      "Scottsdale, AZ",
-      "Chicago, IL",
-      "San Jose, CA",
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a3711e6b-1d2a-4bb1-80b7-c1879608766a",
-    "companyId": "company_6b8510ec45e00d4e449f6fac0c6ec511",
-    "company": "PayPal",
-    "companyDomain": "paypal.com",
-    "role": "Sr Product Manager",
-    "applyUrl": "https://go.landed.jobs/wjxg17a",
-    "location": "San Jose, CA",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$99.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:a7cbe4bf-dbb2-40ba-862a-fc493c8638ee",
-    "companyId": "company_d0f12616c140b9ab5b1f640d7ad48d2c",
-    "company": "Capital One",
-    "companyDomain": "capitalone.com",
-    "role": "Sr Associate, Product Management - Finance",
-    "applyUrl": "https://go.landed.jobs/jdhfdwu",
-    "location": "McLean, VA · Richmond, VA",
-    "locations": [
-      "McLean, VA",
-      "Richmond, VA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [],
-    "posted": "2026-11-13T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
     ]
   }
 ]
