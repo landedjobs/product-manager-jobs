@@ -6005,6 +6005,35 @@
     ]
   },
   {
+    "dedupeKey": "job:70d9f82b-35ec-455f-99ea-4b243b7cdbb0",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Product Manager, Payments Acceptance",
+    "applyUrl": "https://go.landed.jobs/qnna60a",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "payment systems",
+      "Python",
+      "SQL",
+      "A/B testing",
+      "Tableau"
+    ],
+    "posted": "2026-11-23T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:ce885587-eb6b-4ea0-99fa-723379a9947d",
     "companyId": "company_9d61174c99bfe8e347abf2cf62b6ad55",
     "company": "Trane Technologies",
@@ -6766,6 +6795,32 @@
     "companyTier": "B",
     "companyBadges": [
       "$115B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:cb2688ee-7da6-4146-87ca-a7e446ca2abf",
+    "companyId": "company_1f57811fa8bffbb3fc87ecc969823161",
+    "company": "Remitly",
+    "companyDomain": "remitly.com",
+    "role": "Senior Product Manager, Regionalization & New Markets",
+    "applyUrl": "https://go.landed.jobs/0e4k4lp",
+    "location": "Seattle, WA",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "product_management",
+    "level": "senior",
+    "skills": [
+      "AI agents",
+      "LLMs"
+    ],
+    "posted": "2026-11-19T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$4.8B valuation",
       "Public"
     ]
   },
@@ -7539,54 +7594,6 @@
     "companyBadges": [
       "$4.5B valuation",
       "Series C"
-    ]
-  },
-  {
-    "dedupeKey": "job:75cd15e8-5477-4df1-b42f-b9908c6f354c",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Product Strategy Sr Manager",
-    "applyUrl": "https://go.landed.jobs/7y365ba",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "Product Strategy"
-    ],
-    "posted": "2026-11-16T20:12:15.768Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:c9ddfe06-e179-4e97-b091-e94fe4aa645f",
-    "companyId": "company_8a2a099f86fbd1e25e4067a341b2ea35",
-    "company": "ServiceNow",
-    "companyDomain": "servicenow.com",
-    "role": "Inbound Product Manager (Masters Summer 2027)",
-    "applyUrl": "https://go.landed.jobs/p9nsy5x",
-    "location": "San Diego, CA",
-    "locations": [
-      "San Diego, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "product_management",
-    "level": "intern",
-    "skills": [],
-    "posted": "2026-11-16T18:22:56.004Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$115B valuation",
-      "Public"
     ]
   }
 ]
